@@ -1,0 +1,10 @@
+{"file":"package.png","frames":{
+"pagbg":{"x":0,"y":0,"w":580,"h":868,"offX":0,"offY":0,"sourceW":580,"sourceH":868},
+"close":{"x":513,"y":868,"w":57,"h":59,"offX":0,"offY":0,"sourceW":57,"sourceH":59},
+"cardbg":{"x":580,"y":0,"w":359,"h":60,"offX":0,"offY":0,"sourceW":359,"sourceH":60},
+"carddone":{"x":756,"y":60,"w":176,"h":54,"offX":0,"offY":0,"sourceW":176,"sourceH":54},
+"gift_num":{"x":0,"y":868,"w":513,"h":152,"offX":0,"offY":0,"sourceW":513,"sourceH":152},
+"giftup":{"x":756,"y":114,"w":176,"h":52,"offX":0,"offY":0,"sourceW":176,"sourceH":52},
+"giftdone":{"x":580,"y":176,"w":176,"h":52,"offX":0,"offY":0,"sourceW":176,"sourceH":52},
+"cardup":{"x":580,"y":122,"w":176,"h":54,"offX":0,"offY":0,"sourceW":176,"sourceH":54},
+"open":{"x":580,"y":60,"w":176,"h":62,"offX":0,"offY":0,"sourceW":176,"sourceH":62}}}

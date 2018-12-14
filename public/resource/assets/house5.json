@@ -1,0 +1,10 @@
+{"file":"house5.png","frames":{
+"wood":{"x":241,"y":513,"w":83,"h":79,"offX":0,"offY":0,"sourceW":83,"sourceH":79},
+"bird":{"x":326,"y":577,"w":47,"h":54,"offX":0,"offY":0,"sourceW":47,"sourceH":54},
+"bucket":{"x":326,"y":513,"w":47,"h":62,"offX":0,"offY":0,"sourceW":47,"sourceH":62},
+"dog":{"x":0,"y":577,"w":55,"h":51,"offX":0,"offY":0,"sourceW":55,"sourceH":51},
+"h1":{"x":375,"y":312,"w":374,"h":310,"offX":0,"offY":0,"sourceW":374,"sourceH":310},
+"h2":{"x":375,"y":0,"w":374,"h":310,"offX":0,"offY":0,"sourceW":374,"sourceH":310},
+"h3":{"x":0,"y":0,"w":373,"h":345,"offX":0,"offY":0,"sourceW":373,"sourceH":345},
+"lamp":{"x":241,"y":347,"w":93,"h":164,"offX":0,"offY":0,"sourceW":93,"sourceH":164},
+"tree":{"x":0,"y":347,"w":239,"h":228,"offX":0,"offY":0,"sourceW":239,"sourceH":228}}}

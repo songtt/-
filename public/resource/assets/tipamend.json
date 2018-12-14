@@ -1,0 +1,7 @@
+{"file":"tipamend.png","frames":{
+"tipframe":{"x":0,"y":341,"w":454,"h":266,"offX":0,"offY":0,"sourceW":456,"sourceH":268},
+"tipbtn":{"x":0,"y":736,"w":151,"h":49,"offX":0,"offY":0,"sourceW":152,"sourceH":50},
+"tipclose":{"x":152,"y":736,"w":44,"h":46,"offX":0,"offY":0,"sourceW":45,"sourceH":47},
+"tipSmall":{"x":0,"y":608,"w":281,"h":127,"offX":0,"offY":0,"sourceW":282,"sourceH":128},
+"tipBig":{"x":0,"y":0,"w":454,"h":340,"offX":0,"offY":0,"sourceW":456,"sourceH":341},
+"greenBtn":{"x":0,"y":785,"w":151,"h":49,"offX":0,"offY":0,"sourceW":152,"sourceH":50}}}

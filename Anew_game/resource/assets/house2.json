@@ -1,0 +1,12 @@
+{"file":"house2.png","frames":{
+"tree":{"x":672,"y":349,"w":207,"h":219,"offX":0,"offY":0,"sourceW":207,"sourceH":219},
+"bird":{"x":974,"y":349,"w":34,"h":41,"offX":0,"offY":0,"sourceW":34,"sourceH":41},
+"bucket":{"x":0,"y":369,"w":70,"h":74,"offX":0,"offY":0,"sourceW":70,"sourceH":74},
+"desk":{"x":591,"y":359,"w":75,"h":71,"offX":0,"offY":0,"sourceW":75,"sourceH":71},
+"h1":{"x":672,"y":0,"w":335,"h":347,"offX":0,"offY":0,"sourceW":335,"sourceH":347},
+"h2":{"x":336,"y":0,"w":334,"h":357,"offX":0,"offY":0,"sourceW":334,"sourceH":357},
+"h5":{"x":0,"y":0,"w":334,"h":367,"offX":0,"offY":0,"sourceW":334,"sourceH":367},
+"light":{"x":72,"y":369,"w":70,"h":73,"offX":0,"offY":0,"sourceW":70,"sourceH":73},
+"pond":{"x":336,"y":359,"w":166,"h":52,"offX":0,"offY":0,"sourceW":166,"sourceH":52},
+"rockery":{"x":881,"y":349,"w":91,"h":98,"offX":0,"offY":0,"sourceW":91,"sourceH":98},
+"treasure":{"x":504,"y":359,"w":85,"h":94,"offX":0,"offY":0,"sourceW":85,"sourceH":94}}}

@@ -1,0 +1,86 @@
+{include  file="public:header" /}
+<script src="__JS__/geetest.5.5.39.js"></script>
+<div style="width:100%; height:100%; background:#f8f8f8;">
+    <div id="itemBox" class="item-box">
+        <form class="form-login" method="post" name="loginform" id="formId">
+            <h2>用户登录</h2>
+            <input class="form-control" type="text" name="uname" id="uname" value="" placeholder="用户名"/>
+            <input style="margin:10px 0;" class="form-control" type="password" name="pwd" id="pwd" value="" placeholder="密码"/>
+            <div class="control-group"><br/>
+              <span>
+                  <input class="input-text input1 verify" style="width:50%;" type="text" name="verify" value="" placeholder="验证码"/>&nbsp;&nbsp;&nbsp;<a class="reloadverify" id="reloadverify" style="cursor:pointer; text-decoration:none;">换一张？</a>
+                  
+            </span>
+            </div>
+            <div class="control-group"><img class="verifyimg reloadverify" style="cursor:pointer; width: 100%; height: 70px;" alt="点击切换" src="/admin/index/verifyCom" ></div>
+            <button style="margin-top:10px;" class="btn btn-lg btn-primary btn-block" id="popup-submit" type="submit">登录</button>
+            <div id="popup-captcha"></div>
+        </form>        
+    </div>
+</div>
+
+{block name="js"}
+<script src="__STATIC__/layer/layer.js"></script>
+<script src="//static.geetest.com/static/tools/gt.js"></script>
+<!-- <script src="http://code.jquery.com/jquery-1.12.3.min.js"></script> -->
+<script type="text/javascript">
+    $(document).ready(function(){  
+        var storage = window.localStorage;  
+        var getname = storage["uname"];  
+   
+        $("#uname").val("");
+        $("#uname").val(getname); 
+           
+    });
+//    var captchaObja = '';
+    $('#formId').submit(function(){
+        //点击按钮提交
+        var href = '/admin/index/login';
+        var data = $("#formId").serialize(); 
+         
+        var storage = window.localStorage;
+        $.post(href,data,success);
+        function success(data) {
+            if (data.status == 1) {
+
+                var username=$("#uname").val();                
+                storage["uname"] = username;  
+             
+                
+                var aa = document.createElement("a"); 
+                aa.setAttribute("href","/admin/setting/index");
+                var bodys=document.getElementsByTagName("body")[0];
+                bodys.appendChild(aa);
+                aa.click();
+               /* window.location.href='/admin/setting/index';*/
+//                captchaObja.show();
+            } else {
+                $('#reloadverify').trigger("click");
+                layer.msg(data.info, {icon: 1});
+                setTimeout(function(){},2000);
+                return false;
+            }
+        }
+        return false;
+    });
+
+
+
+    $(function(){
+        //刷新验证码
+        var verifyimg = $(".verifyimg").attr("src");
+
+        $(".reloadverify").click(function(){
+
+            if( verifyimg.indexOf('?')>0){
+                $(".verifyimg").attr("src", verifyimg+'&random='+Math.random());
+            }else{
+                $(".verifyimg").attr("src", verifyimg.replace(/\?.*$/,'')+'?'+Math.random());
+            }
+        });
+    });
+
+</script>
+{/block}
+
+{include  file="public:footer" /}

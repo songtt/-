@@ -1,0 +1,15 @@
+{"file":"element.png","frames":{
+"hospital":{"x":434,"y":0,"w":259,"h":296,"offX":0,"offY":0,"sourceW":259,"sourceH":296},
+"myhouse":{"x":797,"y":475,"w":121,"h":152,"offX":0,"offY":0,"sourceW":121,"sourceH":152},
+"money":{"x":210,"y":508,"w":140,"h":49,"offX":0,"offY":0,"sourceW":140,"sourceH":49},
+"go_up":{"x":434,"y":298,"w":228,"h":222,"offX":0,"offY":0,"sourceW":228,"sourceH":222},
+"card":{"x":0,"y":0,"w":432,"h":311,"offX":0,"offY":0,"sourceW":432,"sourceH":311},
+"music":{"x":935,"y":0,"w":53,"h":54,"offX":0,"offY":0,"sourceW":53,"sourceH":54},
+"sound":{"x":935,"y":112,"w":51,"h":53,"offX":0,"offY":0,"sourceW":51,"sourceH":53},
+"luck":{"x":210,"y":313,"w":155,"h":193,"offX":0,"offY":0,"sourceW":155,"sourceH":193},
+"activity":{"x":0,"y":313,"w":208,"h":203,"offX":0,"offY":0,"sourceW":208,"sourceH":203},
+"bank":{"x":695,"y":0,"w":238,"h":318,"offX":0,"offY":0,"sourceW":238,"sourceH":318},
+"day":{"x":797,"y":320,"w":121,"h":153,"offX":0,"offY":0,"sourceW":121,"sourceH":153},
+"badluck":{"x":664,"y":320,"w":131,"h":183,"offX":0,"offY":0,"sourceW":131,"sourceH":183},
+"soundClose":{"x":935,"y":167,"w":49,"h":51,"offX":0,"offY":0,"sourceW":49,"sourceH":51},
+"musicClose":{"x":935,"y":56,"w":52,"h":54,"offX":0,"offY":0,"sourceW":52,"sourceH":54}}}

@@ -1,0 +1,16 @@
+{"file":"houseEl.png","frames":{
+"fhouse":{"x":371,"y":249,"w":100,"h":131,"offX":0,"offY":0,"sourceW":100,"sourceH":131},
+"fix":{"x":220,"y":107,"w":199,"h":72,"offX":0,"offY":0,"sourceW":199,"sourceH":72},
+"game":{"x":0,"y":332,"w":168,"h":167,"offX":0,"offY":0,"sourceW":168,"sourceH":167},
+"package":{"x":371,"y":382,"w":92,"h":125,"offX":0,"offY":0,"sourceW":92,"sourceH":125},
+"mhtitle":{"x":220,"y":290,"w":147,"h":39,"offX":0,"offY":0,"sourceW":147,"sourceH":39},
+"message":{"x":465,"y":382,"w":92,"h":125,"offX":0,"offY":0,"sourceW":92,"sourceH":125},
+"worldmap":{"x":421,"y":107,"w":97,"h":131,"offX":0,"offY":0,"sourceW":97,"sourceH":131},
+"grade":{"x":473,"y":240,"w":122,"h":43,"offX":9,"offY":12,"sourceW":141,"sourceH":68},
+"up":{"x":170,"y":332,"w":199,"h":81,"offX":0,"offY":0,"sourceW":199,"sourceH":81},
+"fhtitle":{"x":220,"y":249,"w":147,"h":39,"offX":0,"offY":0,"sourceW":147,"sourceH":39},
+"gohome":{"x":520,"y":285,"w":58,"h":60,"offX":0,"offY":0,"sourceW":58,"sourceH":60},
+"helpfriend":{"x":170,"y":415,"w":199,"h":72,"offX":0,"offY":0,"sourceW":199,"sourceH":72},
+"destroy":{"x":220,"y":181,"w":199,"h":66,"offX":0,"offY":0,"sourceW":199,"sourceH":66},
+"fhmessage":{"x":0,"y":107,"w":218,"h":223,"offX":0,"offY":0,"sourceW":218,"sourceH":223},
+"bottom":{"x":0,"y":0,"w":590,"h":105,"offX":0,"offY":0,"sourceW":590,"sourceH":105}}}

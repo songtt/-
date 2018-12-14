@@ -1,0 +1,9 @@
+{"file":"house6.png","frames":{
+"wood":{"x":317,"y":247,"w":115,"h":78,"offX":0,"offY":0,"sourceW":115,"sourceH":78},
+"flower":{"x":432,"y":309,"w":57,"h":51,"offX":0,"offY":0,"sourceW":57,"sourceH":51},
+"h1":{"x":666,"y":0,"w":317,"h":242,"offX":0,"offY":0,"sourceW":317,"sourceH":242},
+"h2":{"x":0,"y":236,"w":317,"h":242,"offX":0,"offY":0,"sourceW":317,"sourceH":242},
+"h3":{"x":349,"y":0,"w":317,"h":247,"offX":0,"offY":0,"sourceW":317,"sourceH":247},
+"h4":{"x":0,"y":0,"w":349,"h":236,"offX":0,"offY":0,"sourceW":349,"sourceH":236},
+"tree":{"x":666,"y":242,"w":248,"h":263,"offX":0,"offY":0,"sourceW":248,"sourceH":263},
+"wine":{"x":432,"y":247,"w":47,"h":62,"offX":0,"offY":0,"sourceW":47,"sourceH":62}}}
