@@ -1,7 +1,0 @@
-{"file":"cardUse.png","frames":{
-"loss":{"x":1395,"y":1,"w":503,"h":463,"offX":0,"offY":0,"sourceW":503,"sourceH":463},
-"earth":{"x":753,"y":1,"w":640,"h":1138,"offX":0,"offY":0,"sourceW":640,"sourceH":1138},
-"rock2":{"x":1395,"y":466,"w":303,"h":536,"offX":0,"offY":3,"sourceW":303,"sourceH":540},
-"defense":{"x":1,"y":1130,"w":711,"h":645,"offX":0,"offY":0,"sourceW":711,"sourceH":645},
-"rock":{"x":1700,"y":466,"w":236,"h":329,"offX":0,"offY":0,"sourceW":236,"sourceH":329},
-"save":{"x":1,"y":1,"w":750,"h":1127,"offX":0,"offY":0,"sourceW":750,"sourceH":1127}}}
